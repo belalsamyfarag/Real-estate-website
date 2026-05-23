@@ -1,0 +1,6 @@
+{
+  "name": "UrbanInvest",
+  "description": "Modern professional real estate investment, portfolio tracking, and project catalog platform with RTL support, construction progress tracking, live site webcams, and transaction timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
